@@ -9,17 +9,16 @@ A minimalist - cool looking (allegedly) macropad for cat lovers and productive p
 * **Rotary Encoder:** Precision control for volume 
 * **XIAO RP2040 Powered:** Compact and powerful processing
 
-
 ## Schematic
-![Schematic Image](Kicad\Schematic.png)
+![Schematic Image](Kicad/Schematic.png)
 
 ## PCB
-![PCB Layout](Kicad\Pcb.png)
-![PCB 3d View](Kicad\Pcb3d.png)
+![PCB Layout](Kicad/Pcb.png)
+![PCB 3D View](Kicad/Pcb3d.png)
 
 ## 3D Model Case
-![3d Model](CaseModel\3dCad.png)
-![3d Model](CaseModel\3dCad_2.png)
+![3D Model](CaseModel/3dCad.png)
+![3D Model](CaseModel/3dCad_2.png)
 
 ## BOM 
 * 1x Seeed Studio XIAO RP2040
