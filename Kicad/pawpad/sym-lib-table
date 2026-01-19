@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Scottokeebs")(type "KiCad")(uri "${SCOTTOKEEBS_KICAD}/symbols/ScottoKeebs.kicad_sym")(options "")(descr ""))
+  (lib (name "OPL lib")(type "KiCad")(uri "${OPL_KICADLIB}/OPL_Kicad_Library-master/Seeed Studio XIAO Series Library/Seeed_Studio_XIAO_Series.kicad_sym")(options "")(descr ""))
+  (lib (name "0.91 display")(type "KiCad")(uri "D:/KiCad Resources/0.91 inch OLED display/kbd.kicad_sym")(options "")(descr ""))
+)
